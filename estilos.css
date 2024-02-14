@@ -1,0 +1,101 @@
+* {
+    font-family: 'Sen', cursiva;  
+}
+p{
+    font-size: 1.5em;
+}
+ul{
+    font-size: 1.5em;
+}
+h3 {
+    font-size: 2.5em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.menu{
+    background-color:#99f;
+    box-shadow: 0px 5px 10px 5px #bbb;
+}
+.nav__li{
+    display: inline-block;
+    color:#fff;
+    font-size: 2em;
+    padding: .5em;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+.nav__li a{ 
+    text-decoration: none;
+    color: #fff;
+}
+.nav__li i {
+    box-sizing: border-box;
+    margin-right: 5px;
+}
+.nav__li:hover i{
+    color:#bbb;}
+
+.nav__li:hover a{
+    color: #bbb;
+}
+.img-menu{
+    margin-left: 25%;
+    margin-bottom: 40px;
+    width: 800px;
+    height: 500px;
+    box-shadow: 0px 5px 10px 5px #bbb;
+}
+
+.container {
+    display: inline-block;
+}
+.cont-fru{
+    display: inline-block;
+    padding: auto;
+}
+.cont-fru img {
+    width: 350px;
+    height: 300px;
+    float: left;
+    padding: 20px 30px 30px 30px;
+}
+.cont-fru p {
+    padding-top: 30px;
+}
+.cont-fru li {
+    padding-top: 20px;
+}
+.div-barra {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1em;
+    box-shadow: 0px 5px 10px 5px #bbb;
+    background-color: #eee;
+}
+.div-barra form {
+    font-size: 1.2em;
+}
+button {
+    margin-top: 30px;
+}
+
+
+#title-first{
+    font-size: 4em;
+    text-align: center;
+}
+#title-secu{
+    font-size: 3em;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+
+footer{
+    margin-top: 30px;
+    background-color:#99f;
+    font-size: 25px;
+}
